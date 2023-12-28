@@ -3,7 +3,7 @@
  <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
   <asx:values>
    <DEVC>
-    <CTEXT>ZTAB_ZHU</CTEXT>
+    <CTEXT>ZTAB_ZHU_CODE</CTEXT>
    </DEVC>
   </asx:values>
  </asx:abap>
