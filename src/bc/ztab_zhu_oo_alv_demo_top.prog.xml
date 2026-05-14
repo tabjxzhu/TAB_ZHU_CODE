@@ -3,12 +3,10 @@
  <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
   <asx:values>
    <PROGDIR>
-    <NAME>ZTAB_ZHU_CODE_TRAINING_F01</NAME>
-    <DBAPL>S</DBAPL>
-    <DBNA>D$</DBNA>
+    <NAME>ZTAB_ZHU_OO_ALV_DEMO_TOP</NAME>
     <SUBC>I</SUBC>
-    <FIXPT>X</FIXPT>
-    <LDBNAME>D$S</LDBNAME>
+    <RSTAT>K</RSTAT>
+    <RLOAD>E</RLOAD>
     <UCCHECK>X</UCCHECK>
    </PROGDIR>
    <I18N_TPOOL>
@@ -17,8 +15,8 @@
      <TEXTPOOL>
       <item>
        <ID>R</ID>
-       <ENTRY>ztab_zhu_code_training_f01</ENTRY>
-       <LENGTH>26</LENGTH>
+       <ENTRY>Include ZTAB_ZHU_OO_ALV_DEMO_TOP</ENTRY>
+       <LENGTH>32</LENGTH>
       </item>
      </TEXTPOOL>
     </item>

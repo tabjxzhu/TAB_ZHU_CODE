@@ -3,7 +3,8 @@
 *&---------------------------------------------------------------------*
 *&
 *&---------------------------------------------------------------------*
-REPORT ZTAB_ZHU_CODE_TRAINING.
+REPORT ztab_zhu_code_training.
+
 TYPES: BEGIN OF ty_ship,
          tknum TYPE tknum, "Shipment Number
          name  TYPE ernam, "Name of Person who Created the Object

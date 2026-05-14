@@ -6,22 +6,17 @@
     <NAME>ZTAB_ZHU_CODE_TRAINING</NAME>
     <SUBC>1</SUBC>
     <RSTAT>T</RSTAT>
-    <RLOAD>E</RLOAD>
+    <RLOAD>1</RLOAD>
     <FIXPT>X</FIXPT>
     <UCCHECK>X</UCCHECK>
    </PROGDIR>
-   <I18N_TPOOL>
+   <TPOOL>
     <item>
-     <LANGUAGE>E</LANGUAGE>
-     <TEXTPOOL>
-      <item>
-       <ID>R</ID>
-       <ENTRY>Program ZTAB_ZHU_CODE_TRAINING</ENTRY>
-       <LENGTH>30</LENGTH>
-      </item>
-     </TEXTPOOL>
+     <ID>R</ID>
+     <ENTRY>程序 ZTAB_ZHU_CODE_TRAINING</ENTRY>
+     <LENGTH>25</LENGTH>
     </item>
-   </I18N_TPOOL>
+   </TPOOL>
   </asx:values>
  </asx:abap>
 </abapGit>
